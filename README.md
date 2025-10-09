@@ -21,13 +21,16 @@
 <div align="center">
 
 ### 🧠 Backend
-<img src="https://skillicons.dev/icons?i=python,php,java,mysql,flask,laravel,sqlite,visualstudio" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=python,php,java" alt="Backend Skills"/>
+
+### 🜍 Frameworks
+<img src="https://skillicons.dev/icons?i=flask,laravel,react" alt="Frameworks"/>
 
 ### ⚡ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Skills"/>
 
 ### 🗃️ Bases de Datos
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/> 
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Bases de Datos"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
 </div>
