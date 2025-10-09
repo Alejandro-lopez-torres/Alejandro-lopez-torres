@@ -1,8 +1,7 @@
 <div align="center">
   <h1>👁️‍🗨️ Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro</a></h1>
-  <p>Desarrollador <strong>Backend & Frontend</strong> enfocado en construir sistemas que unan lo técnico con lo simbólico.</p>
-
-  <div style="display: flex; justify-content: center; width: 100%; margin-top: 10px;">
+  <p>Desarrollador <strong>Backend & Frontend</strong>, apasionado por construir sistemas sólidos, visuales y con significado.</p>
+  <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://i.pinimg.com/originals/ec/ea/8a/ecea8a51e4ae263afe3268d4a15ffb6e.gif" alt="gif místico centrado">
   </div>
 </div>
@@ -14,7 +13,7 @@
 <div align="center">
 
 **Lenguajes:**  
-🐍 Python • 🕷 PHP • ⚙️ JavaScript • ☕ Java • 🧩 HTML • 🎨 CSS  
+🧠 Python • 🕷 PHP • ⚙️ JavaScript • ☕ Java • 🧩 HTML • 🎨 CSS  
 
 **Bases de Datos:**  
 🗄️ MySQL • 💾 SQL Server  
@@ -28,10 +27,10 @@
 
 ## 🜏 Sobre mí
 
-- 💻 Desarrollador **full stack**, con mente lógica para el backend y mirada estética para el frontend  
+- 💻 Desarrollador de software **full stack**, con base lógica en backend y mirada estética en frontend  
 - 🕯️ Interesado en la **filosofía, la inmortalidad** y el diseño de sistemas que trascienden lo humano  
 - 🧩 Busco unir **la ingeniería con la conciencia**, el código con la idea  
-- 🧠 Trabajo con **arquitecturas limpias, patrones, símbolos y propósito**
+- 🧠 Trabajo con **arquitecturas limpias, patrones, símbolos y propósitos**
 
 <br>
 
@@ -87,4 +86,5 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   </a>
 </p>
+
 
