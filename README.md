@@ -1,18 +1,37 @@
 <div align="center">
-  <h1>🕯️Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro🕯️</a></h1>
-  <div style="display: flex; justify-content: center; width: 100%;">
-    <img src="https://i.pinimg.com/originals/98/14/62/981462d7689025c87875d28d6999d6aa.gif" alt="gif místico centrado">
+  <h1>👁️‍🗨️ Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro</a></h1>
+  <p>Desarrollador <strong>Backend & Frontend</strong> enfocado en construir sistemas que unan lo técnico con lo simbólico.</p>
+
+  <div style="display: flex; justify-content: center; width: 100%; margin-top: 10px;">
+    <img src="https://i.pinimg.com/originals/ec/ea/8a/ecea8a51e4ae263afe3268d4a15ffb6e.gif" alt="gif místico centrado">
   </div>
+</div>
+
+<br>
+
+## ⚡ Stack Tecnológico
+
+<div align="center">
+
+**Lenguajes:**  
+🐍 Python • 🕷 PHP • ⚙️ JavaScript • ☕ Java • 🧩 HTML • 🎨 CSS  
+
+**Bases de Datos:**  
+🗄️ MySQL • 💾 SQL Server  
+
+**Frameworks:**  
+🔥 Flask • ⚡ Laravel • ⚛️ React  
+
 </div>
 
 <br>
 
 ## 🜏 Sobre mí
 
-- 💻 Desarrollador de software (backend y móvil)
-- 🕯️ Interesado en la filosofía, la inmortalidad y el diseño de sistemas que trascienden lo humano
-- 🧩 Busco unir lo técnico con lo simbólico: la ingeniería con la conciencia
-- 🧠 Trabajo con ideas, código y arquetipos
+- 💻 Desarrollador **full stack**, con mente lógica para el backend y mirada estética para el frontend  
+- 🕯️ Interesado en la **filosofía, la inmortalidad** y el diseño de sistemas que trascienden lo humano  
+- 🧩 Busco unir **la ingeniería con la conciencia**, el código con la idea  
+- 🧠 Trabajo con **arquitecturas limpias, patrones, símbolos y propósito**
 
 <br>
 
@@ -32,8 +51,8 @@
           </a>
         </p>
         <p>
-          Sistema que crea narrativas automáticas basadas en arquetipos jungianos, tarot y el Camino del Héroe.
-          Un intento por enseñar a las máquinas a contar historias con alma.
+          Sistema que crea narrativas automáticas basadas en **arquetipos jungianos, tarot y el Camino del Héroe**.  
+          Una máquina que aprende a contar historias con alma.
         </p>
       </div>
     </td>
@@ -50,7 +69,7 @@
           </a>
         </p>
         <p>
-          Plataforma de aprendizaje enfocada en unir programación, filosofía y práctica espiritual.  
+          Plataforma de aprendizaje enfocada en unir **programación, filosofía y práctica espiritual**.  
           Porque el conocimiento sin transformación interna no sirve de nada.
         </p>
       </div>
