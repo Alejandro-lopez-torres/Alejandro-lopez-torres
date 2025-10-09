@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Alejandro</a> 📿🏺</h1>
 </div>
-<img src="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/482252172_1201848738174794_2234654020031578576_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHHbObubPz3oFgMA0XKxKnif0Xt1n7Y4L1_Re3Wftjgvcv1gopH1EbCtqi-8RNI3P8rLEgORKXlA7MgJRwH6rJe&_nc_ohc=dl8FrTF4w08Q7kNvwHVgoLN&_nc_oc=AdmiqxGyFyvup6wnM_ZM3QzrQeZI-Hqr5qh9uC7obsGEYvYsFOLlyBcl9h_khKmo90enTlh54Q_tSw8dB6i-X11w&_nc_zt=23&_nc_ht=scontent-lim1-1.xx&_nc_gid=IkVXmbvndU61x6WdG3yk8g&oh=00_AfdcOcQ79oNbe562rKWznuMAS0JW1zc5IZoXb7tdx1NEVw&oe=68EDE815">
+<img src="https://i.pinimg.com/736x/ed/4b/b3/ed4bb3fb62d84ae12b770dab08336efc.jpg">
 
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
