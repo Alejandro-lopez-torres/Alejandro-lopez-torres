@@ -37,7 +37,7 @@
         </a>
         <p>
           <a href="https://github.com/tuusuario/generador-de-mitos" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-444?style=for-the-badge&logo=github&logoColor=white">
+            <img src="">
           </a>
         </p>
         <p>
