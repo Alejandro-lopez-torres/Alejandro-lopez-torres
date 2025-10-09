@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👁️‍🗨️ Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro</a></h1>
-  <p>Desarrollador, buscador de lo trascendental y programador de lo inevitable.</p>
   <img src="https://i.pinimg.com/originals/ec/ea/8a/ecea8a51e4ae263afe3268d4a15ffb6e.gif" width="400" alt="gif místico centrado">
 </div>
 
