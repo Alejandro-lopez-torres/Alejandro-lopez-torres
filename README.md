@@ -9,30 +9,18 @@
 
 ## 🜏 Sobre mí
 
-- 💻 Desarrollador de software (backend y móvil)
-- 🕯️ Interesado en la filosofía, la inmortalidad y el diseño de sistemas que trascienden lo humano
-- 🧩 Busco unir lo técnico con lo simbólico: la ingeniería con la conciencia
-- 🧠 Trabajo con ideas, código y arquetipos
+- 💻 Desarrollador de software (backend y móvil)  
+- 🕯️ Interesado en la filosofía, la inmortalidad y el diseño de sistemas que trascienden lo humano  
+- 🧩 Busco unir lo técnico con lo simbólico: la ingeniería con la conciencia  
+- 🧠 Trabajo con ideas, código y arquetipos  
 
 <br>
 
-## ⚔️ Tecnologías y Enfoque
+## ⚔️ Tecnologías
 
 <div align="center">
-
-### 🧠 Backend
-<img src="https://skillicons.dev/icons?i=python,php,java" alt="Backend Skills"/>
-
-### 🜍 Frameworks
-<img src="https://skillicons.dev/icons?i=flask,laravel,react" alt="Frameworks"/>
-
-### ⚡ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Skills"/>
-
-### 🗃️ Bases de Datos
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Bases de Datos"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-
+  <img src="https://skillicons.dev/icons?i=python,php,java,flask,laravel,react,html,css,js,mysql,sqlite,visualstudio" alt="Tecnologías"/><br>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </div>
 
 <br>
@@ -53,7 +41,7 @@
           </a>
         </p>
         <p>
-          Sistema que crea narrativas automáticas basadas en arquetipos jungianos, tarot y el Camino del Héroe.
+          Sistema que crea narrativas automáticas basadas en arquetipos jungianos, tarot y el Camino del Héroe.  
           Un intento por enseñar a las máquinas a contar historias con alma.
         </p>
       </div>
