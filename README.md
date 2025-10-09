@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👁️‍🗨️ Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro</a></h1>
   <div style="display: flex; justify-content: center; width: 100%;">
-    <img src="https://i.pinimg.com/originals/ec/ea/8a/ecea8a51e4ae263afe3268d4a15ffb6e.gif" alt="gif místico centrado">
+    <img src="https://i.pinimg.com/originals/80/af/6e/80af6edf16a35a07954f516c219cefbf.gif" alt="gif místico centrado">
   </div>
 </div>
 
