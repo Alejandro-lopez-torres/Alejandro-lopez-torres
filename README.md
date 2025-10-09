@@ -9,10 +9,10 @@
 
 ## 🜏 Sobre mí
 
-- 💻 Desarrollador de software (backend y móvil)  
-- 🕯️ Interesado en la filosofía, la inmortalidad y el diseño de sistemas que trascienden lo humano  
-- 🧩 Busco unir lo técnico con lo simbólico: la ingeniería con la conciencia  
-- 🧠 Trabajo con ideas, código y arquetipos  
+- 💻 Desarrollador de software **backend y frontend**  
+- ⚙️ Me gusta construir sistemas sólidos, con buen diseño y lógica limpia  
+- 🔮 Me interesa cómo la tecnología puede reflejar ideas y procesos más profundos  
+- 🧩 Trabajo con intención: que el código tenga propósito y coherencia  
 
 <br>
 
@@ -41,12 +41,11 @@
           </a>
         </p>
         <p>
-          Sistema que crea narrativas automáticas basadas en arquetipos jungianos, tarot y el Camino del Héroe.  
-          Un intento por enseñar a las máquinas a contar historias con alma.
+          Sistema que genera narrativas automáticas inspiradas en arquetipos y mitología.  
+          Une estructura, creatividad y lógica para crear historias con sentido.
         </p>
       </div>
     </td>
-
   </tr>
 </table>
 
