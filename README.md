@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👁️‍🗨️ Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro</a></h1>
   <div style="display: flex; justify-content: center; width: 100%;">
-    <img src="https://i.pinimg.com/originals/a9/8a/1f/a98a1fe05019c395040c7872f7a26be4.gif" alt="gif místico centrado">
+    <img src="https://i.pinimg.com/originals/ec/ea/8a/ecea8a51e4ae263afe3268d4a15ffb6e.gif" alt="gif místico centrado">
   </div>
 </div>
 
@@ -68,3 +68,4 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   </a>
 </p>
+
