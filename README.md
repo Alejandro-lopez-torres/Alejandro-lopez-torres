@@ -1,36 +1,37 @@
 <div align="center">
-  <h1>👁️‍🗨️ Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro</a></h1>
-  <p>Desarrollador <strong>Backend & Frontend</strong>, apasionado por construir sistemas sólidos, visuales y con significado.</p>
+  <h1>🕯️📖Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro🕯️📖</a></h1>
+  <h1>🕯️Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro🕯️</a></h1>
   <div style="display: flex; justify-content: center; width: 100%;">
-    <img src="https://i.pinimg.com/originals/ec/ea/8a/ecea8a51e4ae263afe3268d4a15ffb6e.gif" alt="gif místico centrado">
+    <img src="https://i.pinimg.com/originals/98/14/62/981462d7689025c87875d28d6999d6aa.gif" alt="gif místico centrado">
   </div>
-</div>
-
-<br>
-
-## ⚡ Stack Tecnológico
-
-<div align="center">
-
-**Lenguajes:**  
-🧠 Python • 🕷 PHP • ⚙️ JavaScript • ☕ Java • 🧩 HTML • 🎨 CSS  
-
-**Bases de Datos:**  
-🗄️ MySQL • 💾 SQL Server  
-
-**Frameworks:**  
-🔥 Flask • ⚡ Laravel • ⚛️ React  
-
 </div>
 
 <br>
 
 ## 🜏 Sobre mí
 
-- 💻 Desarrollador de software **full stack**, con base lógica en backend y mirada estética en frontend  
-- 🕯️ Interesado en la **filosofía, la inmortalidad** y el diseño de sistemas que trascienden lo humano  
-- 🧩 Busco unir **la ingeniería con la conciencia**, el código con la idea  
-- 🧠 Trabajo con **arquitecturas limpias, patrones, símbolos y propósitos**
+- 💻 Desarrollador de software (backend y móvil)
+- 🕯️ Interesado en la filosofía, la inmortalidad y el diseño de sistemas que trascienden lo humano
+- 🧩 Busco unir lo técnico con lo simbólico: la ingeniería con la conciencia
+- 🧠 Trabajo con ideas, código y arquetipos
+
+<br>
+
+## ⚔️ Tecnologías y Enfoque
+
+<div align="center">
+
+### 🧠 Backend
+<img src="https://skillicons.dev/icons?i=python,php,java,mysql,flask,laravel,sqlite,visualstudio" alt="Backend Skills"/>
+
+### ⚡ Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Skills"/>
+
+### 🗃️ Bases de Datos
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/> 
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+
+</div>
 
 <br>
 
@@ -50,8 +51,8 @@
           </a>
         </p>
         <p>
-          Sistema que crea narrativas automáticas basadas en **arquetipos jungianos, tarot y el Camino del Héroe**.  
-          Una máquina que aprende a contar historias con alma.
+          Sistema que crea narrativas automáticas basadas en arquetipos jungianos, tarot y el Camino del Héroe.
+          Un intento por enseñar a las máquinas a contar historias con alma.
         </p>
       </div>
     </td>
@@ -68,7 +69,7 @@
           </a>
         </p>
         <p>
-          Plataforma de aprendizaje enfocada en unir **programación, filosofía y práctica espiritual**.  
+          Plataforma de aprendizaje enfocada en unir programación, filosofía y práctica espiritual.  
           Porque el conocimiento sin transformación interna no sirve de nada.
         </p>
       </div>
@@ -86,5 +87,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   </a>
 </p>
-
-
