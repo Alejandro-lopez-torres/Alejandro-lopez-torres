@@ -47,23 +47,6 @@
       </div>
     </td>
 
-    <td width="50%">
-      <h3 align="center">AppCademy Adaptada</h3>
-      <div align="center">
-        <a href="https://github.com/tuusuario/appcademy" target="_blank">
-          <img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="AppCademy">
-        </a>
-        <p>
-          <a href="https://github.com/tuusuario/appcademy" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-777?style=for-the-badge&logo=github&logoColor=white">
-          </a>
-        </p>
-        <p>
-          Plataforma de aprendizaje enfocada en unir programación, filosofía y práctica espiritual.  
-          Porque el conocimiento sin transformación interna no sirve de nada.
-        </p>
-      </div>
-    </td>
   </tr>
 </table>
 
@@ -72,8 +55,8 @@
 ### ⚙️ &nbsp;Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github.com/tuusuario">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuusuario&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <a href="https://github.com/Alejandro-lopez-torres">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alejandro-lopez-torres&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alejandro-lopez-torres&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   </a>
 </p>
