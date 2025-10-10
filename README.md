@@ -47,7 +47,7 @@
       <h3 align="center">Flores Amarillas</h3>
       <div align="center">
         <a href="https://github.com/Alejandro-lopez-torres/Flores_Amarillas" target="_blank">
-          <img src="Captura de pantalla 2025-10-10 140005.png" width="300" alt="Flores Amarillas">
+          <img src="Captura de pantalla 2025-10-10 140005.png" width="400" alt="Flores Amarillas">
         </a>
         <p>
           <a href="https://github.com/Alejandro-lopez-torres/Flores_Amarillas" target="_blank">
