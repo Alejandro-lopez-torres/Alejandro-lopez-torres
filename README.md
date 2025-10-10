@@ -52,7 +52,7 @@
         </a>
         <p>
           <a href="https://github.com/Alejandro-lopez-torres/Flores_Amarillas" target="_blank">
-            <img src="flores.png">
+            <img src="https://img.shields.io/badge/CÓDIGO-e6b800?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>
