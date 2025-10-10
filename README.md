@@ -30,7 +30,7 @@
       <h3 align="center">Generador de Mitos</h3>
       <div align="center">
         <a href="https://github.com/Alejandro-lopez-torres/Generador-de-Mitos" target="_blank">
-          <img src="https://i.pinimg.com/1200x/c2/3f/a0/c23fa0f301489e9ab6e7db487dd0cf24.jpg" width="400" alt="Generador de mitos">
+          <img src="https://i.pinimg.com/1200x/c2/3f/a0/c23fa0f301489e9ab6e7db487dd0cf24.jpg" width="300" alt="Generador de mitos">
         </a>
         <p>
           <a href="https://github.com/Alejandro-lopez-torres/Generador-de-Mitos" target="_blank">
@@ -47,7 +47,7 @@
       <h3 align="center">Flores Amarillas</h3>
       <div align="center">
         <a href="https://github.com/Alejandro-lopez-torres/Flores_Amarillas" target="_blank">
-          <img src="Captura de pantalla 2025-10-10 140005.png" width="400" alt="Flores Amarillas">
+          <img src="Captura de pantalla 2025-10-10 140005.png" width="300" alt="Flores Amarillas">
         </a>
         <p>
           <a href="https://github.com/Alejandro-lopez-torres/Flores_Amarillas" target="_blank">
