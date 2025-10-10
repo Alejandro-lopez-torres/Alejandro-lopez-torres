@@ -1,4 +1,3 @@
-<img width="602" height="520" alt="image" src="https://github.com/user-attachments/assets/4854c506-f6b2-4590-9267-875d2cbec9d4" /><div align="center">
   <h1>🕯️Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro🕯️</a></h1>
   <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://i.pinimg.com/originals/98/14/62/981462d7689025c87875d28d6999d6aa.gif" alt="gif místico centrado">
