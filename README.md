@@ -32,7 +32,7 @@
     <td width="50%">
       <h3 align="center">Generador de Mitos</h3>
       <div align="center">
-          <img src="https://i.pinimg.com/1200x/c2/3f/a0/c23fa0f301489e9ab6e7db487dd0cf24.jpg" width="400" alt="Generador de mitos">
+          <img src="https://i.pinimg.com/1200x/c2/3f/a0/c23fa0f301489e9ab6e7db487dd0cf24.jpg" width="200" alt="Generador de mitos">
         </a>
         <p>
           <a href="https://github.com/tuusuario/generador-de-mitos" target="_blank">
