@@ -1,4 +1,4 @@
-<div align="center">
+<img width="602" height="520" alt="image" src="https://github.com/user-attachments/assets/4854c506-f6b2-4590-9267-875d2cbec9d4" /><div align="center">
   <h1>🕯️Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro🕯️</a></h1>
   <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://i.pinimg.com/originals/98/14/62/981462d7689025c87875d28d6999d6aa.gif" alt="gif místico centrado">
@@ -48,7 +48,7 @@
       <h3 align="center">Flores Amarillas</h3>
       <div align="center">
         <a href="https://github.com/Alejandro-lopez-torres/Flores_Amarillas" target="_blank">
-          <img src="https://i.pinimg.com/1200x/6a/3e/7b/6a3e7b42583ce8bb3b4c75ed7f4ff508.jpg" width="400" alt="Flores Amarillas">
+          <img src="flores.png" width="400" alt="Flores Amarillas">
         </a>
         <p>
           <a href="https://github.com/Alejandro-lopez-torres/Flores_Amarillas" target="_blank">
