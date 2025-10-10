@@ -39,7 +39,7 @@
           </a>
         </p>
         <p>
-          Sistema que genera narrativas automáticas inspiradas en arquetipos y mitología.  
+          Sistema que genera narrativas automáticas inspiradas en arquetipos del tarot principalmente el del heroe y mitología.  
           Une estructura, creatividad y lógica para crear historias con sentido.
         </p>
       </div>
