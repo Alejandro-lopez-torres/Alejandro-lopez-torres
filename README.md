@@ -47,11 +47,11 @@
     <td width="50%">
       <h3 align="center">Flores Amarillas</h3>
       <div align="center">
-        <a href="https://github.com/Alejandro-lopez-torres/Flores-Amarillas" target="_blank">
+        <a href="https://github.com/Alejandro-lopez-torres/Flores_Amarillas" target="_blank">
           <img src="https://i.pinimg.com/1200x/6a/3e/7b/6a3e7b42583ce8bb3b4c75ed7f4ff508.jpg" width="400" alt="Flores Amarillas">
         </a>
         <p>
-          <a href="https://github.com/Alejandro-lopez-torres/Flores-Amarillas" target="_blank">
+          <a href="https://github.com/Alejandro-lopez-torres/Flores_Amarillas" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-e6b800?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
