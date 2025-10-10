@@ -1,6 +1,6 @@
   <h1>🕯️Hola, soy <a href="https://tu-enlace.dev" target="_blank">Alejandro🕯️</a></h1>
   <div style="display: flex; justify-content: center; width: 100%;">
-    <img src="https://imgur.com/a/iMiaE5k" alt="gif místico centrado">
+    <img src="https://i.imgur.com/KhvKY6i.gif" alt="gif místico centrado">
   </div>
 </div>
 
