@@ -28,7 +28,7 @@
         <td width="25%">
             <h3 align="center">Curso de Kotlin</h3>
             <div align="center">
-                <a href="https://github.com/Uriolivei/Curso_Kotlin" target="_blank">
+                <a href="https://github.com/Alejandro-lopez-torres/Curso-Android-Studio" target="_blank">
                     <img src="https://i.pinimg.com/1200x/87/64/cc/8764ccb2d11e7112cf989a6adae385a0.jpg" width="300" height="300"
                         alt="Kotlin">
                 </a>
@@ -42,7 +42,7 @@
         <td width="25%, ">
             <h3 align="center">Curso de Arduino</h3>
             <div align="center">
-                <a href="https://github.com/Uriolivei/Curso_Arduino" target="_blank">
+                <a href="https://github.com/Alejandro-lopez-torres/Curso_arduino" target="_blank">
                     <img src="https://i.pinimg.com/736x/c7/85/f2/c785f20c5a4d0519faef94d26d4605fc.jpg" width="300" height="300"
                         alt="Arduino">
                 </a>
@@ -55,7 +55,7 @@
         <td width="25%">
             <h3 align="center">Curso de Git, Github y Gitbash</h3>
             <div align="center">
-                <a href="https://github.com/Uriolivei/Curso_Git" target="_blank">
+                <a href="https://github.com/Alejandro-lopez-torres/Curso_Git" target="_blank">
                     <img src="https://i.pinimg.com/1200x/a2/e2/9f/a2e29fc13256aecd5f4b700fc53c3e7b.jpg" width="300" height="300"
                         alt="Git">
                 </a>
