@@ -23,7 +23,50 @@
 </div>
 
 ## 📚 Proyectos
-
+<table>
+    <tr>
+        <td width="25%">
+            <h3 align="center">Curso de Kotlin</h3>
+            <div align="center">
+                <a href="https://github.com/Uriolivei/Curso_Kotlin" target="_blank">
+                    <img src="https://i.pinimg.com/1200x/87/64/cc/8764ccb2d11e7112cf989a6adae385a0.jpg" width="300" height="300"
+                        alt="Kotlin">
+                </a>
+                <p>
+                    Ejercicios desarrollados en el Curso basado en el lenguaje de programacion Kotlin, usado mayormente
+                    en el desarrollo
+                    de aplicaciones móviles.
+                </p>
+            </div>
+        </td>
+        <td width="25%, ">
+            <h3 align="center">Curso de Arduino</h3>
+            <div align="center">
+                <a href="https://github.com/Uriolivei/Curso_Arduino" target="_blank">
+                    <img src="https://i.pinimg.com/736x/c7/85/f2/c785f20c5a4d0519faef94d26d4605fc.jpg" width="300" height="300"
+                        alt="Arduino">
+                </a>
+                <p>
+                    Ejercicios desarrollados en el lenguaje de programación Arduino en su IDE Arduino, juntos con los
+                    modelos en la aplicación Fritzing.
+                </p>
+            </div>
+        </td>
+        <td width="25%">
+            <h3 align="center">Curso de Git, Github y Gitbash</h3>
+            <div align="center">
+                <a href="https://github.com/Uriolivei/Curso_Git" target="_blank">
+                    <img src="https://i.pinimg.com/1200x/a2/e2/9f/a2e29fc13256aecd5f4b700fc53c3e7b.jpg" width="300" height="300"
+                        alt="Git">
+                </a>
+                <p>
+                    Ejercicios realizados en Git, usando si propia terminal Gitbash para luego subir todos lod proyectos
+                    a Github.
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
 <table>
   <tr>
     <td width="50%">
