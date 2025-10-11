@@ -60,6 +60,24 @@
         </p>
       </div>
     </td>
+    <tr>
+    <td width="50%">
+      <h3 align="center">Generador de Mitos</h3>
+      <div align="center">
+        <a href="https://github.com/Alejandro-lopez-torres/Generador-de-Mitos" target="_blank">
+          <img src="https://i.pinimg.com/1200x/c2/3f/a0/c23fa0f301489e9ab6e7db487dd0cf24.jpg" width="300" alt="Generador de mitos">
+        </a>
+        <p>
+          <a href="https://github.com/Alejandro-lopez-torres/Generador-de-Mitos" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+          Sistema que genera narrativas automáticas inspiradas en arquetipos del tarot, principalmente el del héroe, y en la mitología.  
+          Une estructura, creatividad y lógica para crear historias con alma y coherencia simbólica.
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 <br>
