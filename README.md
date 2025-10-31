@@ -8,21 +8,21 @@
 
 ## 🜏 Sobre mí
 
-- 💻 Desarrollador de software **backend y frontend**  
-- ⚙️ Me gusta construir sistemas sólidos, con buen diseño y lógica limpia  
-- 🔮 Me interesa cómo la tecnología puede reflejar ideas y procesos más profundos  
-- 🧩 Trabajo con intención: que el código tenga propósito y coherencia  
+-  Desarrollador de software **backend y frontend**  
+-  Me gusta construir sistemas sólidos, con buen diseño y lógica limpia  
+-  Me interesa cómo la tecnología puede reflejar ideas y procesos más profundos  
+-  Trabajo con intención: que el código tenga propósito y coherencia  
 
 <br>
 
-## ⚔️ Tecnologías
+## 📜 Tecnologías
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,php,java,flask,laravel,react,html,css,js,mysql,sqlite,visualstudio" alt="Tecnologías"/><br>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </div>
 
-## 📚 Proyectos
+## 👑 Proyectos
 <table>
     <tr>
         <td width="25%">
